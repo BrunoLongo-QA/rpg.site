@@ -2,7 +2,7 @@
 [Voltar](../../README.md)
 
 ## Instalagens e Construções do Grupo
-* [Taverna do Grupo](./images/maps/TavernaDoGrupo.jpg)
+* [Taverna do Grupo](../images/maps/TavernaDoGrupo.jpg)
 
 ## Vilarejos e Cidades Pequenas
 
