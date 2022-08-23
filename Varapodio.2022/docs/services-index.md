@@ -5,7 +5,7 @@ Durante a aventura em alguns momentos vocês poderão fazer serviços extras na 
 
 Abaixo estão os serviços disponiveis e quanto dias eles podem demorar.
 
-### Para entender o pagamento
+### Para Entender o Pagamento
 
 Todo serviço precisa de uma rolagem de save de um atributo STR/DEX/CON/INT/WIS/CHA e isso vai determinar se foi um serviço RUIM/MEDIANO/BOM/EXEPCIONAL. Cada nível de qualidade representa uma porcentagem do maximo que pode receber pelo trabalho representado abaixo:
 
@@ -22,7 +22,7 @@ Fora isso a quantidade de dias é definida na tabela de serviços, pode ser um v
 
 Em cada serviço vamos ter tambem o CD que é o valor que tem q tirar no dado para ser considerado como BOM, porem os valores para as demais classificações não serão avisados. Falhas e acertos criticos podem impactar nos serviços.
 
-Reputação tambem ira seguir o mesmo conseito usando a qualidade do serviço com o diferencial que sempre vai gerar ao menos 1 de reputação 
+Reputação tambem ira seguir o mesmo conceito usando a qualidade do serviço com o diferencial que sempre vai gerar ao menos 1 de reputação 
 
 | Cidade | Descrição | XP | Pagamento | Dias | Classe de Dificudade (CD) | Reputações | Vagas | Outros |
 |--|--|--|--|--|--|--|--|--|
