@@ -9,16 +9,18 @@
 
 ## Caracteristicas Fisicas
 
-**Nome:** Desconhecido
+* **Nome:** Desconhecido
 
-**Sexo:** [X] Masculino [ ] Feminino
+* **Sexo:** 
+    *   [X] Masculino 
+    *   [ ] Feminino
 
-**Raça:** Goblin
+* **Raça:** Goblin
 
-**Classe:** Desconhecido
+* **Classe:** Desconhecido
 
-**Nivel:** Desconhecido
+* **Nivel:** Desconhecido
 
-**Descrição:** Taverneiro da [Taverna Unicórnio Saltitante](../locations/Taverna-Unicornio-Saltitante.md), animado e descolado porem muito misterioso o Goblin é conhecido em toda a cidade. Suas raizes ninguem conhece e parece que ninguem se lembra de quando ele chegou na cidade, para todos ele esta na cidade desde que se lembram da cidade.
+* **Descrição:** Taverneiro da [Taverna Unicórnio Saltitante](../locations/Taverna-Unicornio-Saltitante.md), animado e descolado porem muito misterioso o Goblin é conhecido em toda a cidade. Suas raizes ninguem conhece e parece que ninguem se lembra de quando ele chegou na cidade, para todos ele esta na cidade desde que se lembram da cidade.
 
 ## Observaçoes e Anotações dos Jogadores:

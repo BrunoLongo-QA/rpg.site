@@ -1,4 +1,4 @@
-# Mapas Essenciais
+# Localizações Essenciais
 [Voltar](../../README.md)
 
 ## Instalagens e Construções do Grupo
