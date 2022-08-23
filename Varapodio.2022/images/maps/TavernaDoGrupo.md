@@ -1,1 +1,0 @@
-![Taverna do Grupo](./TavernaDoGrupo.jpg)

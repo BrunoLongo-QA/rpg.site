@@ -2,7 +2,10 @@
 [Voltar](../../README.md)
 
 ## Instalagens e Construções do Grupo
-* [Taverna do Grupo](../images/maps/TavernaDoGrupo.md)
+* [Taverna do Grupo](./Taverna-Grupo.md)
+
+## Instalaçoes Famosas
+* [Taverna Unicornio Saltitante](./Taverna-Unicornio-Saltitante.md)
 
 ## Vilarejos e Cidades Pequenas
 
