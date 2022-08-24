@@ -8,6 +8,7 @@
 * [Taverna Unicornio Saltitante](./Taverna-Unicornio-Saltitante.md)
 
 ## Vilarejos e Cidades Pequenas
+* [Caldo](./Caldo.md)
 
 ## Cidades Médias
 
