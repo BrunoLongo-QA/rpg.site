@@ -1,6 +1,7 @@
 # All My RPG Tables
 
 ## Grupo Brasilianos 
+* [Personagens](Brasilianos.2022/docs/players-index.md)
 * [Maps](./Brasilianos.2022/locations/locations-index.md)
 * [NPCs](./Brasilianos.2022/npcs/npcs-index.md)
 * [Tabela de Serviços e Tasks Disponiveis para o Grupo](./Brasilianos.2022/docs/services-index.md)
