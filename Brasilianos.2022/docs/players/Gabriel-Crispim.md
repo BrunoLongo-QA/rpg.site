@@ -9,16 +9,16 @@
 
 ### Pessoas, Grupos e Facções
 
-Goblin
+Goblin - Indiferente
 
 ![progress](https://progress-bar.dev/0/ "progresso") 
 
 ### Cidades e Reinos
 
-Cidade de Caldo
+Cidade de Caldo - Indiferente
 
-![progress](https://progress-bar.dev/0/ "progresso") 
+![progress](https://progress-bar.dev/5/ "progresso") 
 
-Reino de Dumenor
+Reino de Dumenor - Indiferente
 
 ![progress](https://progress-bar.dev/0/ "progresso") 

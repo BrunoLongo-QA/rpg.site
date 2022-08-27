@@ -17,7 +17,7 @@ Goblin
 
 Cidade de Caldo
 
-![progress](https://progress-bar.dev/0/ "progresso") 
+![progress](https://progress-bar.dev/2/ "progresso") 
 
 Reino de Dumenor
 
