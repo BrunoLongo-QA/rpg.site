@@ -6,7 +6,7 @@
     *   [X] Aberto
 
 
-![Taverna do Grupo](../images/maps/TavernaUnicornioSaltitante.jpg)
+![Taverna Unicornio Saltitante](../images/maps/TavernaUnicornioSaltitante.jpg)
 ### Informações:
 
 ### Referencias:
