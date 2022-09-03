@@ -1,5 +1,9 @@
 # NPCs Por Região
 [Voltar](../../README.md)
 
-# Geral
+# NPCs
 * [Goblin](./Goblin.md)
+
+# Grupos
+
+# Guildas
