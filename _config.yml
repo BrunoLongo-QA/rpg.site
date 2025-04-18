@@ -1,0 +1,9 @@
+title: RPG Em Foco
+description: Universo de RPG colaborativo
+baseurl: "" # deixa vazio se for publicar na raiz
+url: "https://seu-usuario.github.io"
+
+theme: minima
+
+markdown: kramdown
+highlighter: rouge

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="/assets/style.css">
+    </head>
+    <body>
+        <header>
+                <h1>RPG EM FOCO</h1>
+                <nav>
+                    <a href="/">Início</a>
+                    <a href="/docs/world">Sobre o Mundo</a>
+                    <a href="/grupos/">Grupos De RPG</a>
+                </nav>
+                <hr>
+        </header>
+        <main>
+            {{ content }}
+        </main>
+        <footer>
+            <hr>
+            <p>© {{ "now" | date: "%Y" }} RPG EM FOCO</p>
+        </footer>
+    </body>
+</html>
