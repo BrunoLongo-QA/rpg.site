@@ -21,6 +21,11 @@ O repositório é organizado em várias pastas, cada uma contendo tabelas espec�
 
 Fora isso cada grupo de jogadores tem sua propria pasta, onde podem colocar suas anotações e tabelas que acharem interessante.
 
+# Links Importantes e House Rules
+
+* [House Rules - Mana e Cast de Spells](./docs/house-rules/spell-cast.md)
+* [House Rules - Classes Magicas](./docs/house-rules/magic-class.md)
+
 # Tabelas Importantes
 
 * [Tabelas de Itens Gerais e Serviços](./docs/items/index.md)
